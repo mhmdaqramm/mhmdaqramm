@@ -177,14 +177,17 @@ $ cat skills.txt | grep --include="[learning]"
 <br/>
 
 <!-- ═══════════════════════════════════ SNAKE ANIMATION ══ -->
-<h2>🐍 Contribution Snake</h2>
+<h2>:v Contribution</h2>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/mhmdaqramm/mhmdaqramm/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mhmdaqramm/mhmdaqramm/output/github-snake.svg"/>
-    <img alt="github contribution snake" src="https://raw.githubusercontent.com/mhmdaqramm/mhmdaqramm/output/github-snake-dark.svg"/>
-  </picture>
+ <picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/mhmdaqramm/mhmdaqramm/output/pacman-contribution-graph-dark.svg"/>
+  <source media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/mhmdaqramm/mhmdaqramm/output/pacman-contribution-graph.svg"/>
+  <img alt="pacman contribution graph"
+    src="https://raw.githubusercontent.com/mhmdaqramm/mhmdaqramm/output/pacman-contribution-graph-dark.svg"/>
+</picture>
 </div>
 
 <br/>
